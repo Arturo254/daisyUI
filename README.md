@@ -113,5 +113,8 @@ Algunas de las utilidades y estilos adicionales incluidos son:
 - Tipografía: DaisyUI incluye estilos para encabezados, texto resaltado, listas y más.
 - Efectos de animación: Puedes agregar animaciones a tus componentes utilizando las clases de animación proporcionadas por DaisyUI.
 
-<p> Cabe aclarar que la biblioteca no la hice yo solo, somos un conjunto de colaboradores que puedes checar en la página oficial de Daisyui</p>
+
+### Información Adicional
+
+Cabe aclarar que la biblioteca no la hice yo solo, somos un conjunto de colaboradores que puedes checar en la página oficial de Daisyui
 
