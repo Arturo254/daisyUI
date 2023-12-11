@@ -1,6 +1,9 @@
 #  DaisyUI
 ![daisyui-logomark-1024-1024](https://github.com/Arturo254/daisyui/assets/87346871/70d7e684-12e7-425f-b6dd-c6b3e423d1cd)
 
+> .[!NOTE].
+> UPDATE 
+
 ## ¿Qué es DaisyUI?
 
 DaisyUI es una biblioteca de componentes de interfaz de usuario (UI) diseñada para el framework de CSS Tailwind CSS. Proporciona una serie de componentes predefinidos y estilos personalizados que simplifican el proceso de desarrollo de interfaces de usuario atractivas y responsivas. 
