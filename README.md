@@ -1,6 +1,5 @@
 #  DaisyUI
 ![daisyui-logomark-1024-1024](https://github.com/Arturo254/daisyui/assets/87346871/70d7e684-12e7-425f-b6dd-c6b3e423d1cd)
-
 > .[!NOTE].
 > UPDATE 
 
