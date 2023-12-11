@@ -1,7 +1,8 @@
 #  DaisyUI
 ![daisyui-logomark-1024-1024](https://github.com/Arturo254/daisyui/assets/87346871/70d7e684-12e7-425f-b6dd-c6b3e423d1cd)
-> .[!NOTE].
-> UPDATE 
+
+
+# UPDATE!
 
 ## ¿Qué es DaisyUI?
 
@@ -111,4 +112,6 @@ Algunas de las utilidades y estilos adicionales incluidos son:
 - Espaciado: Puedes utilizar clases de utilidad para agregar espaciado entre elementos.
 - Tipografía: DaisyUI incluye estilos para encabezados, texto resaltado, listas y más.
 - Efectos de animación: Puedes agregar animaciones a tus componentes utilizando las clases de animación proporcionadas por DaisyUI.
+
+<p> Cabe aclarar que la biblioteca no la hice yo solo, somos un conjunto de colaboradores que puedes checar en la página oficial de Daisyui</p>
 
